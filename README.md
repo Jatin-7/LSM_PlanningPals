@@ -1,5 +1,5 @@
-#LSM
-steps to run
+steps to run:
+
 clone the repo
 npm install
 npm start
