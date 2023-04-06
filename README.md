@@ -1,3 +1,5 @@
-# swe-fastfood
-
-[Postman](https://www.postman.com/lively-crater-584197/workspace/food-mnagement)
+#LSM
+steps to run
+clone the repo
+npm install
+npm start
