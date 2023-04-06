@@ -1,5 +1,3 @@
-# LSM_PlanningPals
-Step to run - 
-clone the repo
-npm install
-npm start
+# swe-fastfood
+
+[Postman](https://www.postman.com/lively-crater-584197/workspace/food-mnagement)

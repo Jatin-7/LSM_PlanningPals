@@ -1,0 +1,380 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\rudra\\Desktop\\CLG Assignments\\SE_project",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-03-28 00:17:04",
+            "filesum": 53,
+            "codesum": 12966,
+            "commentsum": 5034,
+            "blanksum": 656,
+            "statistics": {
+                ".json": {
+                    "code": 3630,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".md": {
+                    "code": 2,
+                    "comment": 1,
+                    "blank": 1
+                },
+                ".js": {
+                    "code": 2185,
+                    "comment": 49,
+                    "blank": 178
+                },
+                ".ejs": {
+                    "code": 1817,
+                    "comment": 2,
+                    "blank": 108
+                },
+                "": {
+                    "code": 5,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".css": {
+                    "code": 1313,
+                    "comment": 170,
+                    "blank": 349
+                },
+                ".pdf": {
+                    "code": 4014,
+                    "comment": 4811,
+                    "blank": 19
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": ".env"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 6,
+                    "code": 51,
+                    "comment": 2,
+                    "filename": "assets\\css\\emphome.css"
+                },
+                {
+                    "blank": 152,
+                    "code": 511,
+                    "comment": 27,
+                    "filename": "assets\\css\\grid.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 78,
+                    "comment": 1,
+                    "filename": "assets\\css\\index.css"
+                },
+                {
+                    "blank": 72,
+                    "code": 143,
+                    "comment": 126,
+                    "filename": "assets\\css\\normalize.css"
+                },
+                {
+                    "blank": 58,
+                    "code": 265,
+                    "comment": 7,
+                    "filename": "assets\\css\\stordstatc.css"
+                },
+                {
+                    "blank": 58,
+                    "code": 265,
+                    "comment": 7,
+                    "filename": "assets\\css\\style.css"
+                },
+                {
+                    "filename": "assets\\images\\canteenimg1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\images\\canteenimg2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\images\\food-on-the-go.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\images\\food.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\images\\person.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\images\\undraw.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\images\\undraw2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\images\\wallpaper.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 32,
+                    "comment": 1,
+                    "filename": "index.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 1375,
+                    "comment": 1874,
+                    "filename": "L3+L4_TEAM_1.pdf"
+                },
+                {
+                    "blank": 3,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "models\\Customer.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "models\\Feedback.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "models\\MenuItem.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 54,
+                    "comment": 0,
+                    "filename": "models\\Order.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "models\\Owner.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 56,
+                    "comment": 0,
+                    "filename": "models\\Restaurant.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 3597,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 34,
+                    "code": 413,
+                    "comment": 12,
+                    "filename": "routes\\CustomerRoutes.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 160,
+                    "comment": 6,
+                    "filename": "routes\\MenuRoutes.js"
+                },
+                {
+                    "blank": 57,
+                    "code": 669,
+                    "comment": 9,
+                    "filename": "routes\\OrderRoutes.js"
+                },
+                {
+                    "blank": 21,
+                    "code": 267,
+                    "comment": 11,
+                    "filename": "routes\\OwnerRoutes.js"
+                },
+                {
+                    "blank": 22,
+                    "code": 348,
+                    "comment": 10,
+                    "filename": "routes\\RestaurantRoutes.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 1561,
+                    "comment": 1857,
+                    "filename": "SE_review_11.pdf"
+                },
+                {
+                    "blank": 12,
+                    "code": 1078,
+                    "comment": 1080,
+                    "filename": "Software Review 2.pdf"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "utils\\connectDB.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "utils\\getToken.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "utils\\validate.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "vercel.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 234,
+                    "comment": 0,
+                    "filename": "views\\add_menu_item.ejs"
+                },
+                {
+                    "blank": 0,
+                    "code": 114,
+                    "comment": 0,
+                    "filename": "views\\add_new_restaurant.ejs"
+                },
+                {
+                    "blank": 7,
+                    "code": 129,
+                    "comment": 0,
+                    "filename": "views\\customer_completed_orders.ejs"
+                },
+                {
+                    "blank": 5,
+                    "code": 142,
+                    "comment": 0,
+                    "filename": "views\\customer_current_order.ejs"
+                },
+                {
+                    "blank": 2,
+                    "code": 116,
+                    "comment": 0,
+                    "filename": "views\\customer_home.ejs"
+                },
+                {
+                    "blank": 9,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "views\\customer_order_confirm.ejs"
+                },
+                {
+                    "blank": 1,
+                    "code": 168,
+                    "comment": 0,
+                    "filename": "views\\feedback.ejs"
+                },
+                {
+                    "blank": 4,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "views\\index.ejs"
+                },
+                {
+                    "blank": 9,
+                    "code": 110,
+                    "comment": 1,
+                    "filename": "views\\login.ejs"
+                },
+                {
+                    "blank": 5,
+                    "code": 79,
+                    "comment": 0,
+                    "filename": "views\\owner_completed_orders.ejs"
+                },
+                {
+                    "blank": 14,
+                    "code": 84,
+                    "comment": 0,
+                    "filename": "views\\owner_current_orders.ejs"
+                },
+                {
+                    "blank": 10,
+                    "code": 87,
+                    "comment": 0,
+                    "filename": "views\\owner_home.ejs"
+                },
+                {
+                    "blank": 3,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "views\\owner_update_menu.ejs"
+                },
+                {
+                    "blank": 28,
+                    "code": 129,
+                    "comment": 0,
+                    "filename": "views\\restaurant.ejs"
+                },
+                {
+                    "blank": 9,
+                    "code": 168,
+                    "comment": 1,
+                    "filename": "views\\signup.ejs"
+                }
+            ]
+        }
+    ]
+}
